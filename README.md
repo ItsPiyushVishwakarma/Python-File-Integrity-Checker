@@ -45,8 +45,7 @@ File Integrity Failed
 ```
 ## Project Overview
 
-![Overview](screenshots/proje
-ct_overview.png)
+![Overview](screenshots/Project_overview.png)
 
 ## Integrity Verified
 
