@@ -43,7 +43,17 @@ Status:
 🚨 COMPROMISED
 File Integrity Failed
 ```
+## Project Overview
 
+![Overview](screenshots/project_overview.png)
+
+## Integrity Verified
+
+![Verified](screenshots/integrity_verified.png)
+
+## Integrity Failed
+
+![Failed](screenshots/integrity_failed.png)
 ---
 
 ## 🛠 Technologies Used
